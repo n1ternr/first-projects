@@ -1,0 +1,5 @@
+num_1 = int(input("nomre1? "))
+num_2 = int(input("nomre2? "))
+num_3 = int(input("nomre3? "))
+num_4 = int(input("nomre4? "))
+print("your avg score is: " , (num_1 + num_2 + num_3 + num_4)/ 4)
